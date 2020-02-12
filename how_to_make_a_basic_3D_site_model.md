@@ -10,13 +10,13 @@ What you will learn:
 * How to extrude layers
 
 This tutorial will be done in ArcScene. The data for this tutorial was generated in the [How to Make a Basic Site Map](xxx) and [How to Make a Basic Site Model](xxx) tutorials, and are all clipped to the Morningside Heights boundary:
-* [Buildings]()
-* [Sidewalks]()
-* [Parks]()
-* [Morningside Heights Boundary]()
-* [Elevation Raster]()
-* [2D Contours]()
-* [3D Contours]()
+* [Buildings](data/buildings_mh.zip)
+* [Sidewalks](data/sidewalks_mh.zip)
+* [Parks](data/parks_mh.zip)
+* [Morningside Heights Boundary](data/mh.zip)
+* [Elevation Raster](data/raster_mh.zip)
+* [2D Contours](data/contour_mh.zip)
+* [3D Contours](data/contour2ft_mh_3D.zip)
 
 1. Open up ArcScene and familiarize yourself with the layout. It is quite similar to ArcMap. Add all the datasets. You do this exactly the same way as you would in ArcMap, using the `Add Data` button in the main toolbar. 
 2. `Connect to Folder` and add in the building, sidewalks, parks, Morningside Heights boundary, raster, 2D Contours and 3D Contours files.

@@ -10,7 +10,8 @@ What you will learn:
 
 Elevation models can be made from either elevation points or contour lines, which can then be exported to CAD. These can then be imported into Rhino as 3D lines and surfaces, and used to create physical models. 
 
-The Morningside Heights spot elevation points dataset is available [here](???has to be zipped??...using spotelevation_mh). The original dataset for this tutorial is the [NYC Elevation Points](https://data.cityofnewyork.us/Transportation/Elevation-points/szwg-xci6), but it has been clipped to the Morningside Heights boundary and cleaned to contain only spot elevations using `Select by Attributes`. It is always good practice to look into the metadata or data dictionary for datasets where available. The [documentation](https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md#elevation) for this dataset shows that there are multiple types of elevation points, but as we are dealing with the site's topography only need the `Spot Elevation`. 
+The Morningside Heights spot elevation points dataset is available [here](data/spotelevation_mh.zip). 
+The original dataset for this tutorial is the [NYC Elevation Points](https://data.cityofnewyork.us/Transportation/Elevation-points/szwg-xci6), but it has been clipped to the Morningside Heights boundary and cleaned to contain only spot elevations using `Select by Attributes`. It is always good practice to look into the metadata or data dictionary for datasets where available. The [documentation](https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md#elevation) for this dataset shows that there are multiple types of elevation points, but as we are dealing with the site's topography only need the `Spot Elevation`. 
 ![image](images/t3-01.jpg)
 
 1. Open ArcMap and create a Blank map. 
@@ -37,7 +38,7 @@ The other options can be left as-is.
 ![image](images/t3-06.jpg)
 ![image](images/t3-07.jpg)
 
-The output raster file should be added automatically to the layers of the current map. This can be exported to CAD, and then imported to Rhino as a surface???
+The output raster file should be added automatically to the layers of the current map.
 ![image](images/t3-08.jpg)
 
 This raster can then be used to create contour lines at specified intervals. The unit will be feet as the current coordinate system's linear unit is US feet. 
