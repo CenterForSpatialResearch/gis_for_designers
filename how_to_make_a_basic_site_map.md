@@ -147,10 +147,8 @@ Next, we will make a map layout. The map window should now show you your map's d
 ![image](images/t1-41.jpg)
 
 A new set of tools to zoom and pan appears when you are in the `Layout View`. The `Data View` zoom and pan tools are still active and will affect the map within the data frame. To zoom and pan on the page without affecting the map, use the (page) `Zoom` and `Pan` toolbar. 
-![image](images/t1-42.jpg)
-
 34. Create a `Bookmark` to save the location and scale of the layout for the future, as switching between the Data and Layout view moves the map around. Click on `Bookmarks` > `Create Bookmark` from the toolbar at the top of the page. 
-![image](images/t1-43.jpg)
+![image](images/t1-42-3.jpg)
 
 35. You can add standard elements to your map through the `Insert` menu shown below. Add in a `Legend`, `North Arrow` and `Scale Bar`. 
 ![image](images/t1-44.jpg)
