@@ -15,7 +15,7 @@ For this tutorial, we will use the [@it](https://www.food4rhino.com/app/it) plug
 At this point, you should see the buildings in the Rhino viewport.
 5. Connect a panel to the `F` output from `Imp@It`to view the fields present in the shapefile. Notice that there is an index beside these fields.
 
-![image](images/t2-01.jpg)
+![image](images/t2-01.JPG)
 
 Next, we are going to make the buildings 3D by selecting the field with building heights and extruding each building to its corresponding height.
 
@@ -28,8 +28,8 @@ Next, we are going to make the buildings 3D by selecting the field with building
 
 The buildings should now have their heights extruded. If the buildings look unnaturally high, change the coordinate system to one with linear units (a projected coordinate system).
 
-![image](images/t2-02.jpg)
+![image](images/t2-02.JPG)
 
 12. Bake the extruded geometries to keep them in Rhino by right-clicking on `Extrude` and selecting `Bake`.
 
-![image](images/t2-03.jpg)
+![image](images/t2-03.JPG)
