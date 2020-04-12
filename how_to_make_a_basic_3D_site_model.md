@@ -10,7 +10,7 @@ What you will learn:
 * How to change base heights of layers
 * How to extrude layers
 
-This tutorial will be done in ArcScene. The data for this tutorial was generated in the [How to Make a Basic Site Map](xxx) and [How to Make a Basic Site Model](xxx) tutorials, and are all clipped to the Morningside Heights boundary:
+This tutorial will be done in ArcScene. The data for this tutorial was generated in the [How to Make a Basic Site Map](/how_to_make_a_basic_site_map.md) and [How to Make a Basic Site Model](/how_to_make_a_basic_site_elevation_model.md) tutorials, and are all clipped to the Morningside Heights boundary:
 * [Buildings](data/buildings_mh.zip)
 * [Sidewalks](data/sidewalks_mh.zip)
 * [Parks](data/parks_mh.zip)
