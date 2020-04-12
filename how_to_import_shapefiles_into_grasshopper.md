@@ -1,13 +1,14 @@
 **How to Visualize Spatial Data using Grasshopper**
 
 *This tutorial will cover how to import shapefiles into Rhino using Grasshopper and how to visualize them based on attribute information*
+![image](images/t2-final.JPG)
 
 What you will learn:
 * How to add shapefiles directly into Rhino using Grasshopper
 * How to extract attribute information using fields
 * How to extrude features using attribute information
 
-For this tutorial, we will use the [@it](https://www.food4rhino.com/app/it) plugin for Grasshopper. The dataset is this [Buildings in Morningside Heights]() file.  
+For this tutorial, we will use the [@it](https://www.food4rhino.com/app/it) plugin for Grasshopper. The dataset is this [Buildings in Morningside Heights](buildings_mh) file.  
 1. Download the plugin and copy the files into Grasshopper's components folder. Make sure to 'unblock' the .dll file if it still doesn't show up in Grasshopper. 
 2. Open Rhino and then go into Grasshopper. 
 3. Select the `Imp@it` component and connect `File Path` to C:/ and a `Boolean Toggle` to the `True/False (T||F)` input. Set the file path to the building .shp shapefile and toggle the boolean to true. 

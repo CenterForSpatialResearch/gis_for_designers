@@ -2,6 +2,8 @@
 **How to Make a Basic 3D Elevation Model from Elevation Points or Contour Lines**
 
 *This tutorial will cover the creation of a site elevation model from existing elevation points or contour lines*
+![image](images/t3-final.JPG)
+
 What you will learn:
 * How to work with elevation points, contour lines and raster elevation data
 * How to generate rasters from elevation points
