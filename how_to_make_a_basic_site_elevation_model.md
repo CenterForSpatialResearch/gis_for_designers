@@ -1,4 +1,3 @@
-## GIS for Designers: 3D Techniques
 **How to Make a Basic 3D Elevation Model from Elevation Points or Contour Lines**
 
 *This tutorial will cover the creation of a site elevation model from existing elevation points or contour lines*

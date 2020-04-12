@@ -1,4 +1,3 @@
-## GIS for Designers: 3D Techniques
 **How to Make a Basic 3D Site Model**
 
 *This tutorial will cover how to make a basic site model using both 2D and 3D features as well as elevation features*
