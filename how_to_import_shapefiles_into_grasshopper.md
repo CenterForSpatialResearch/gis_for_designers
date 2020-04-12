@@ -1,7 +1,7 @@
 **How to Visualize Spatial Data using Grasshopper**
 
 *This tutorial will cover how to import shapefiles into Rhino using Grasshopper and how to visualize them based on attribute information*
-![image](images/t2-final.JPG)
+![image](images/t2-final.jpg)
 
 What you will learn:
 * How to add shapefiles directly into Rhino using Grasshopper

@@ -1,7 +1,7 @@
 **How to Make a Basic 2D Site Map**
 
 *This tutorial will cover the basics of ArcMap through the creation of a site plan of Morningside Heights*
-![image](images/t1-final.JPG)
+![image](images/t1-final.jpg)
 
 What you will learn:
 * How to add tabular and vector data in ArcMap
